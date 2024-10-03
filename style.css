@@ -281,8 +281,7 @@ main {
   border-radius: 20px;
 }
 
-.announcement-container div:nth-child(1),
-.announcement-container div:nth-child(2) {
+.announcement-container div {
   border-bottom: 1px solid black;
 }
 
